@@ -76,7 +76,7 @@ class MyGame(arcade.Window):
         # Draw the rectangle
         self.radar.draw()
 
-
+#main entry 1
 def main():
     """ Main function """
     MyGame(SCREEN_WIDTH, SCREEN_HEIGHT, SCREEN_TITLE)
