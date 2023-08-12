@@ -9,8 +9,8 @@ import arcade
 import math
 
 # Set up the constants
-SCREEN_WIDTH = 600
-SCREEN_HEIGHT = 600
+SCREEN_WIDTH = 700
+SCREEN_HEIGHT = 700
 SCREEN_TITLE = "Radar Sweep Example"
 
 # These constants control the particulars about the radar
